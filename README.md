@@ -53,6 +53,7 @@ written documents and oral presentations. Students are invited to use their own 
 laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
 Prerequisite: `CMPSC 102`.
+
 Distribution Requirements: `QR`, `SP`.
 
 ### Learning objectives
