@@ -52,6 +52,9 @@ students use industry-grade technology to complete projects, reporting on their 
 written documents and oral presentations. Students are invited to use their own departmentally approved 
 laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
+Prerequisite: `CMPSC 102`.
+Distribution Requirements: `QR`, `SP`.
+
 ### Learning objectives
 
 - Write a step-by-step description that explains how programs written in high-level computer programming languages execute through the use of lower-level computer circuitry.
