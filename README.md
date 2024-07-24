@@ -15,7 +15,7 @@
 > chipping out parking brake assemblies for 1967 Buicks, so programmers don’t write software 
 > that has no computer upon which to run. 
 >
-> Robert X. Cringely, _Accidental Empires_
+> Mark Stephens (a.k.a. Robert X. Cringely) , _Accidental Empires_
 
 ### Course information
 
