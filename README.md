@@ -10,7 +10,7 @@
 
 ## Syllabus
 
-> [c]omputer hardware must exist, or at least be claimed to exist, before programmers can 
+> Computer hardware must exist, or at least be claimed to exist, before programmers can 
 > even envision software for it. Just as cave dwellers didn’t squat with their flint tools 
 > chipping out parking brake assemblies for 1967 Buicks, so programmers don’t write software 
 > that has no computer upon which to run. 
