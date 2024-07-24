@@ -1,6 +1,6 @@
 # CMPSC 200: Computer Organization
 
-![Vector art of 200 in hex, subtitle of course: Bare Metal in pale green and gold](https://raw.githubusercontent.com/allegheny-college-cmpsc-200-fall-2023/course-materials/media/img/CMPSC%20-%20Github%20Banner.png)
+![Vector art of 200 in hex, subtitle of course: Bare Metal in printer's black and white](https://raw.githubusercontent.com/allegheny-college-cmpsc-200-fall-2024/course-materials/media/images/CMPSC%20-%200xC8%20Banner.png)
 
 ## Important resources
 
