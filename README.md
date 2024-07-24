@@ -10,10 +10,12 @@
 
 ## Syllabus
 
-> I mean, it's like getting four hundred thousand people to agree what they want to have for lunch.
+> [c]omputer hardware must exist, or at least be claimed to exist, before programmers can 
+> even envision software for it. Just as cave dwellers didn’t squat with their flint tools 
+> chipping out parking brake assemblies for 1967 Buicks, so programmers don’t write software 
+> that has no computer upon which to run. 
 >
-> Rich Seidner, IBM, "Triumph of the Nerds: Part III"
-
+> Robert X. Cringely, _Accidental Empires_
 
 ### Course information
 
