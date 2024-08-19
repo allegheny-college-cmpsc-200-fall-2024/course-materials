@@ -97,7 +97,8 @@ computer systems architecture and functionality.
 As such, the covenants of this contract are here to reassure and protect you from a fear of failure. Consistent and earnest 
 effort provides this safety net. There are ways for you to essentially "choose your own adventure" in the evaluation of this 
 course, and I encourage you to engage at the level that you see fit. My sincerest hope remains that structuring this course to 
-reward labor dictated, at least in some small part, by your interest allows you to guide and manage your own learning.
+reward labor, at least dictated in some small part by your interest, allows you to guide and manage your own learning and
+achievement.
 
 ## Evaluation
 
