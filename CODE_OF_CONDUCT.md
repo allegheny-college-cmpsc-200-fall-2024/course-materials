@@ -120,8 +120,11 @@ relies on the basic knowledge represented by the course's learning objectives. _
 some more-or-less clever ways ("Hacks") which can achieve our ends and demonstrate above-average proficiency
 in applying a given topic.
 
-Each lab assignment will feature suggestions of Hacks to implement. You may choose one of these suggested Hacks or
-propose one of your own provided that:
+Each lab assignment will include a "Hack" for you to attempt. You must complete this work on the "hack" branch
+of your repository and pass the grader specific to the functionality and documentation detailed. One completed,
+you will be allowed to merge this into the `main` branch.
+
+**All work must be merged into the `main` branch to be evaluated.**
 
 * code comments document the area of code featuring the Hack
 * accompanying documentation [clearly](#clearly) and [_gregariously_](#gregariously) provides:
