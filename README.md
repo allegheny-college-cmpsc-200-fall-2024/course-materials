@@ -82,7 +82,7 @@ This course is centered around using hardware to provide a common platform for s
 
 Assignments will require use of any devices provided and evaluation will be benchmarked to performance on hardware systems, _not necessarily personal computers (PCs)_. While you will use your PCs to program the devices, part of our work this semester is to understand the limitations and opportunities of environments which require understanding physical system topology and performance.
 
-Take all the above hardrware statement to mean that this hardware, when distributed, is as essential to bring to and prepare for class sessions as our textbook and course platforms.
+The above statement implies that this hardware, when distributed, is as essential to bring to and prepare for class sessions as our textbook and course platforms.
 
 ### Governance and evaluation
 
