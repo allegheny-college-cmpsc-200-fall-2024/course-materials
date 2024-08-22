@@ -155,31 +155,8 @@ you will be allowed to merge this into the `main` branch.
 
 **All work must be merged into the `main` branch to be evaluated.**
 
-* code comments document the area of code featuring the Hack
-* accompanying documentation [clearly](#clearly) and [_gregariously_](#gregariously) provides:
-  * a description of the Hack
-  * a record of the process that led you to need or realize the Hack
-  * an explanation of the potential value of implementing the Hack
-
-#### Detour for defintion of terms
-
-##### "Clearly"
-
-An explanation of a Hack is "clear" if it:
-
-* Unambiguously describes the functionality implemented at the level of individual or related groups of instructions, accounting for all instructions which represent the Hack
-* Comprehensively discusses the code or procedure implemented with reference to learning materials accompanying the assignment
-* Exhaustively documents any limitations or potential pitfalls of the Hack including, but not limited to:
-  * misuses possible _because_ of the Hack (e.g. buffer overflows)
-  * test cases which consistently and reliably result in system failure
-  * assumptions which users must know before using the Hack
-
-##### "Gregariously"
-
-Depending on assignment complexity, requirements for length of a response ("gregariousness") will vary. Each hack will feature 
-a minimum word count associated in order to claim credit for the novel and/or clever method you've come up with. These counts 
-will be provided as part of the assignment in a special section ("Hacks") dedicated to outlining the potential approaches and 
-rules for implementing hacks.
+Writing in a Hack's documentation will be measured against the same rubric for [Reflective writing](#reflective-writing)
+described above.
 
 #### Hack rewards
 
