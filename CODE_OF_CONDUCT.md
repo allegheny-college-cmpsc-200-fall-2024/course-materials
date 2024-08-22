@@ -119,7 +119,7 @@ reflective writing must meet the standard defined below.
 
 All assignments require a form of reflective writing that this course calls "reflective reports." These feature a
 mixture of technical questions that also ask you to reflect on your experience in the context of what you're learning,
-and how you're learning it (_not necessarily just how you feel about it_). Occasionally, these reports may ask you
+and how you're learning the material (_not necessarily just how you feel about it_). Occasionally, these reports may ask you
 to speculate about how a concept fits with others.
 
 This course uses the following framework<sup>†</sup> to identify the quality of the writing you do:
