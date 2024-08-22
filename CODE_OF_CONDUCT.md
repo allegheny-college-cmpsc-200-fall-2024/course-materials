@@ -128,7 +128,7 @@ This course uses the following framework<sup>†</sup> to identify the quality o
 |:---------------|:--------------------------------------------------------------------------------------------|
 | Non-reflective | A report of facts and other more-or-less obvious details of an assignment.                  |
 | Reflective     | Discusses constructive thoughts or feelings with relation to the material                   |
-| Reasoned       | Explains the experience (thoughts, feelings) with adequate evidence and examples            |
+| Reasoned       | Explains learner experience of the assignment (thoughts, feelings) with adequate evidence and examples to support claims |
 | Critical       | Sees and discusses alternatives (possible different directions, solutions) not pursued      |
 | Insightful     | Describes new lessons, insights, and learning derived from having completed the exercise    |
 
