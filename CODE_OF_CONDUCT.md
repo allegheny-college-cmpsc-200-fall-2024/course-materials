@@ -1,7 +1,7 @@
 # CMPSC 200: Course Contract
 
-This document represents the `CMPSC 200` evaluative terms and the ethos that underlies 
-them. To anyone who just wants to see the mechanics of the contract, 
+This document represents the `CMPSC 200` evaluative terms and the ethos that underlies
+them. To anyone who just wants to see the mechanics of the contract,
 [skip to the **Evaluation** section](#evaluation).
 
 For anyone who wants a bit of history, read on.
@@ -111,6 +111,32 @@ You may ask why the `Basic Grade` is a `C` and _not a `B` or `B-`_.
 Rising to the level of above-average or exceptional work relies on the just that: above-average or exceptional work. 
 This contract should provide incentives to think beyond mere sufficiency. As you'll see below, work that aspires to 
 higher levels of reward involves exploring the limits and opportunities of the concepts this course explores.
+
+#### Reflective reports
+
+All assignments require a form of reflective writing that this course calls "reflective reports." These feature a
+mixture of technical questions that also ask you to reflect on your experience in the context of what you're learning,
+and how you're learning it (_not necessarily just how you feel about it_). Occasionally, these reports may ask you
+to speculate about how a concept fits with others.
+
+This course uses the following framework<sup>†</sup> to identify the quality of the writing you do:
+
+| Level          | Description                                                                                 |
+|:---------------|:--------------------------------------------------------------------------------------------|
+| Non-reflective | A report of facts and other more-or-less obvious details of an assignment.                  |
+| Reflective     | Discusses constructive thoughts or feelings with relation to the material                   |
+| Reasoned       | Explains the experience (thoughts, feelings) with adequate evidence and examples            |
+| Critical       | Sees and discusses alternatives (possible different directions, solutions) not pursued      |
+| Insightful     | Describes new lessons, insights, and learning derived from having completed the exercise    |
+
+All reflections will contain some level of each of these. However, for a reflection to recieve full credit, _the writing
+must accomplish all of them_ and respond to _all_ questions. Responses to student reflective writing will rank a given
+assignment's documentation using the scale above, indicating the highest level of metacognitive writing achieved.
+
+<sup>†</sup> Developed from:
+> Alrashidi, Huda; Ullmann, Thomas; Ghounaim, Samiah and Joy, Mike (2020). A Framework for Assessing Reflective 
+> Writing Produced Within the Context of Computer Science Education. In: _Companion Proceedings 10th International 
+> Conference on Learning Analytics & Knowledge_ (LAK20, 24/03/2020, Frankfurt, Germany).
 
 ### "Hacks"
 
