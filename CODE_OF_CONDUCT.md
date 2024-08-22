@@ -108,9 +108,12 @@ Students who meet the basic covenants of this contract will earn an individual l
 
 You may ask why the `Basic Grade` is a `C` and _not a `B` or `B-`_.
 
-Rising to the level of above-average or exceptional work relies on the just that: above-average or exceptional work. 
-This contract should provide incentives to think beyond mere sufficiency. As you'll see below, work that aspires to 
+Rising to the level of above-average or exceptional work relies on the just that: above-average or exceptional work.
+This contract should provide incentives to think beyond mere sufficiency. As you'll see below, work that aspires to
 higher levels of reward involves exploring the limits and opportunities of the concepts this course explores.
+
+To meet the basic requirements of an assignment, `100%` of the `Fundamentals` level of GatorGrade checks must pass and
+reflective writing must meet the standard defined below.
 
 #### Reflective reports
 
