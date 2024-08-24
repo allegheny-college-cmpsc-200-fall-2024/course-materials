@@ -119,7 +119,7 @@ reflective writing must meet the standard defined below.
 
 All assignments require a form of reflective writing that this course calls "reflective reports." These feature a
 mixture of technical questions that also ask you to reflect on your experience in the context of what you're learning,
-and how you're learning it (_not necessarily just how you feel about it_). Occasionally, these reports may ask you
+and how you're learning the material (_not necessarily just how you feel about it_). Occasionally, these reports may ask you
 to speculate about how a concept fits with others.
 
 This course uses the following framework<sup>†</sup> to identify the quality of the writing you do:
@@ -130,7 +130,7 @@ This course uses the following framework<sup>†</sup> to identify the quality o
 | Reflective     | Discusses constructive thoughts or feelings with relation to the material                   |
 | Reasoned       | Explains learner experience of the assignment (thoughts, feelings) with adequate evidence and examples to support claims |
 | Critical       | Sees and discusses alternatives (possible different directions, solutions) not pursued      |
-| Insightful     | Describes new lessons, insights, and learning derived from having completed the exercise    |
+| Insightful     | Describes new lessons, insights, and learning derived with regard to relationship to prior assignments   |
 
 All reflections will contain some level of each of these. However, for a reflection to recieve full credit, _the writing
 must accomplish all of them_ and respond to _all_ questions. Responses to student reflective writing will rank a given
