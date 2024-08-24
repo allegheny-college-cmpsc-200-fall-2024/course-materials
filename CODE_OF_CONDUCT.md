@@ -153,8 +153,6 @@ Each lab assignment will include a "Hack" for you to attempt. You must complete 
 of your repository and pass the grader specific to the functionality and documentation detailed. One completed,
 you will be allowed to merge this into the `main` branch.
 
-**All work must be merged into the `main` branch to be evaluated.**
-
 Writing in a Hack's documentation will be measured against the same rubric for [Reflective writing](#reflective-writing)
 described above.
 
